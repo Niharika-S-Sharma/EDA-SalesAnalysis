@@ -86,3 +86,8 @@ Some key steps in the analysis:
 1. Clone this repository:  
    ```bash
    git clone https://github.com/Niharika-S-Sharma/EDA-SalesAnalysis.git
+---
+
+## ✨ Author
+- **Niharika Sharma**
+[LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/niharika-sharma-5511b52a9/)) | [GitHub](https://github.com/Niharika-S-Sharma)
